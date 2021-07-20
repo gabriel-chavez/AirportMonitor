@@ -1,0 +1,10 @@
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\obj\Debug\AirportMonitor.csprojAssemblyReference.cache
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\obj\Debug\AirportMonitor.csproj.CoreCompileInputs.cache
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\bin\Debug\AirportMonitor.exe.config
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\bin\Debug\AirportMonitor.exe
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\bin\Debug\AirportMonitor.pdb
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\bin\Debug\AutoMapper.dll
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\bin\Debug\AutoMapper.xml
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\obj\Debug\AirportMonitor.csproj.CopyComplete
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\obj\Debug\AirportMonitor.exe
+C:\Users\lchavez\source\repos\AirportMonitor\AirportMonitor\obj\Debug\AirportMonitor.pdb
